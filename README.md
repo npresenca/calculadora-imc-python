@@ -1,12 +1,12 @@
 # Calculadora IMC em Python
 
-Calculadora que mede o Índice de Massa Corporal, conforme a classificação.
+Calculadora que mede o Índice de Massa Corporal, conforme a classificação de peso.
 
 ## 🚀 Funcionalidades
 
 - Peso / Altura
 - Classificações
-- Dicionário 
+- Dicionário de busca para achar a classificação.
 
 ## 📦 Tecnologias utilizadas
 
@@ -33,3 +33,13 @@ python imc_dic.py
 ## 🙋‍♂️ Autor
 - [Meu GitHub](https://github.com/npresenca)
 - [![Discord](https://img.shields.io/badge/Discord-Entre%20na%20comunidade-5865F2?logo=discord&logoColor=white)]( https://discord.gg/Nwufmh6HEB)
+
+
+## FAQ
+
+#### O projeto ainda pode continuar?
+Sim, pode continuar conforme o aprendizado de novas técnicas.
+
+#### Por que a calculadora IMC é útil?
+- Ajuda a identificar riscos, previnindo problemas de saúde.
+- Ajuda na avaliação da saúde: diabetes tipo 2, hipertensão, apneia do sono...
